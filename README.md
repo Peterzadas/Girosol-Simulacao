@@ -1,1 +1,3 @@
-# Girosol-Simula-o
+# Girosol-SimulaçãO
+
+pip install -r requirements_girosol.txt
